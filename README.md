@@ -1,7 +1,7 @@
 
 
 
-# FPGA Neural Network Accelerator (MNIST) 🧠⚡
+# FPGA Neural Network Accelerator (MNIST) 
 
 ### **Real-Time Digit Recognition on Nexys 4 DDR — Pure Hardware MLP**
 
